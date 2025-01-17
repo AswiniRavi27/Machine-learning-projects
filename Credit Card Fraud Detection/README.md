@@ -14,5 +14,8 @@
 ## Colab Link:  
  https://colab.research.google.com/drive/1Bl1yxJR6x3MDHFaKQcWWBxuzbkynh-yl?usp=sharing
 
+ ## Dataset Link:
+ https://www.kaggle.com/datasets/kartik2112/fraud-detection
+
 ## Outcome:  
   Successfully classified transactions with high accuracy, demonstrating the effectiveness of the models in identifying fraudulent activities while minimizing false positives.
