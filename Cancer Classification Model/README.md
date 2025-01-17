@@ -13,5 +13,6 @@ Model Training and Evaluation: Provides scripts for training the models and eval
 
 Visualization: Contains scripts for visualizing the data distribution, model performance, and feature importance.
 
+[Open in Google Colab](https://colab.research.google.com/drive/1f_umf2vFB8wHN5-eNZpvz1T8Y9xwhM3u?usp=sharing)
 
 
